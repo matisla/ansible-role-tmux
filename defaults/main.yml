@@ -1,0 +1,6 @@
+---
+tmux_home: "{{ home }}"
+tmux_dotfiles_dir: "{{ dotfiles_dir }}/tmux"
+tmux_config_dir: "{{ config_dir }}/tmux"
+
+tmux_tpm_dir: "{{ tmux_config_dir }}/plugins/tpm"
